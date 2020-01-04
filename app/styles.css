@@ -1,0 +1,26 @@
+.container {
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.sticky {
+  position: sticky;
+  height: 100vh;
+  display: flex;
+  top: 0;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+    /* TODO */
+  color: white;
+  font-size: 250%;
+  text-shadow: 0 2px 2px black;
+}
+
+#slide1 {
+  background-image: url("");
+}
