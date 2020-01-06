@@ -14,6 +14,7 @@
   align-items: center;
 }
 
+/* TODO */
 p {
   color: white;
   font-size: 400%;
@@ -33,45 +34,49 @@ img {
 }
 
 #slide3 {
-  background-image: url("");
+  background-image: url("/img/background/landscape.jpg");
 }
 
 #slide4 {
-  background-image: url("");
+  background-image: url("/img/background/rough-horn.jpg");
 }
 
 #slide5 {
-  background-image: url("");
+  background-image: url("/img/background/landscape-2.jpg");
 }
 
 #slide6 {
-  background-image: url("");
+  background-image: url("/img/background/pyrenees.jpg");
 }
 
 #slide7 {
-  background-image: url("");
+  background-image: url("/img/background/mountain.jpg");
 }
 
 #slide8 {
-  background-image: url("");
+  background-image: url("/img/background/mountain-2.jpg");
 }
 
 #slide9 {
-  background-image: url("");
+  background-image: url("/img/background/mountain-3.jpg");
 }
 
 #slide10 {
-  background-image: url("");
+  background-image: url("/img/background/landscape-3.jpg");
 }
 
 #slide11 {
-  background-image: url("");
+  background-image: url("/img/background/hintersee.jpg");
 }
 
 #slide12 {
-  background-image: url("");
+  background-image: url("/img/background/nature.jpg");
 }
 
 #slide13 {
-  background-image: url("");
+  background-image: url("/img/background/alberta.jpg");
+}
+
+#slide14 {
+  background-image: url("/img/background/cadini.jpg");
 }
